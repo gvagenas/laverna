@@ -21,7 +21,8 @@
     "graceful-fs": "^4.1.5",
     "minimist": "^1.2.0",
     "open": "0.0.5",
-    "serve-static": "^1.11.1"
+    "serve-static": "^1.11.1",
+    "dev-ip": "1.0.1"
   },
   "devDependencies": {
     "browser-sync": "^2.14.0",
